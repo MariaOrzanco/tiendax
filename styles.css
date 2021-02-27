@@ -1,0 +1,9 @@
+body {
+ background-color: rgb(182, 240, 124);
+}
+
+img {
+    width:350px ;
+    height: 350px;
+    margin: 10%;
+}
